@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<title>Robot</title>
+<link rel="icon" href="favicon.png" type="image/gif" sizes="16x16">
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+<body>
+</style>
+</head>
+<body>
+<h1> Robot </h1>
+<marquee behavior = "alternate">What is a robot ? </marquee><br>
+Answer - A robot is a machine—especially one programmable by a computer— capable of carrying out a complex series of actions automatically.<br> Robots can be guided by an external control device or the control may be embedded within.<br> Robots may be constructed on the lines of human form, but most robots are machines designed to perform a task with no regard to their aesthetics.
+<br><a href="https://en.wikipedia.org/wiki/Robot">Click here</a> 
+<br><meta name="keywords" content="rbts, rbt rt">
+<meta name="description" content="What is a robot">
+<meta name="author" content="S.nishanth">
+<img src="asimo.jpeg"alt="asimo" align = "left" width="300" height="300">
+<img src="atlas.jpg" alt="atlas" align = "right"  width="300" height="300">
+<table  border = "100"
+<tr>
+<th>Types of robot </th>
+<th>example</th>
+</tr>
+<tr>
+<br>
+<td>1. asimo</td>
+<td>humanoid</td>
+<tr>
+<td>2. atlas</td>
+<td>humanoid</td>
+</tr>
+<h1>Types of robot</h1>
+<ul>
+<li>legged robot </li>
+<li>survivellence robot</li>
+<li>aerial robot</li>
+<li>military robot robot</li>
+<li>industrial robot </li>
 
-You can use the [editor on GitHub](https://github.com/nishanthcode/nishy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<comments>User-Agent: *Disallow: /scripts/Disallow: /data/Disallow: /images/ </comments>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nishanthcode/nishy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
